@@ -32,6 +32,3 @@
 |7|git commit -m “XXXXX”|
 |8|git push origin master| 
 |||
-
-<h1>Developer Tokens</h1>
-
