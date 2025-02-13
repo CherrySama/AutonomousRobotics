@@ -35,10 +35,3 @@
 
 <h1>Developer Tokens</h1>
 
-|Name|ID|Tokens|
-|---|---|---|
-|Yue YAO|alyyy85|glpat-7ux3PhbjGrLJ26Zne1mJ|
-|Yinghao HE|alyyh76|glpat-_dkBs3zLKaK6XjwfZVU3|
-|Xianda XU|alyxx35|glpat-p_XcY1zAmVksscCejk8D|
-|Robot|-|Fohvegh9|
-
