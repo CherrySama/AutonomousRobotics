@@ -1,13 +1,7 @@
-<<<<<<< Updated upstream
 # AutonomousRobotics🤖
- 
-=======
-# AutonomousRobotics
-
->>>>>>> Stashed changes
 AutonomousRobotics Courseworks Shared purely for education purposes
 
-📌Before running the codes, please make sure that **you've already created and initialized a working space.**
+📌**Before running the codes, please make sure that you've already created and initialized a working space.**
 
 ## Minitask1
 
